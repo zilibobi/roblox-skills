@@ -1,0 +1,14 @@
+{
+  "name": "roblox-skills",
+  "owner": {
+    "name": "zilibobi",
+    "email": "me@zilibobi.dev"
+  },
+  "plugins": [
+    {
+      "name": "roblox-skills",
+      "source": "./",
+      "description": "A growing collection of Roblox/Luau development skills for Claude. Currently: roblox-docs, which answers from the official creator docs instead of memory."
+    }
+  ]
+}
